@@ -5,7 +5,7 @@ Inspired from the tutorial https://www.howtographql.com/graphql-js/0-introductio
 ## Introduction
 GraphQL is the rising star of backend technologies. It replaces REST as an API design paradigm and is becoming the new standard for exposing the data and functionality of a server.
 
-In this tutorial, you’ll learn how to build an idiomatic GraphQL server entirely from scratch. You are going to use the following technologies:
+### The project includes the following technologies:
 
 __graphql-yoga:__ Fully-featured GraphQL server with focus on easy setup, performance & great developer experience. It is built on top of Express, apollo-server, graphql-js and more.
 
